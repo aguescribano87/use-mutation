@@ -1,0 +1,49 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "name": "@Anonimous",
+      "text": "No me gusta el mate"
+    },
+    {
+      "id": 2,
+      "name": "@pedr123",
+      "text": "Aguante JS-DOC !!!"
+    },
+    {
+      "id": 3,
+      "name": "@carlangas",
+      "text": "Anulo mufa, para el mundial"
+    },
+    {
+      "id": 4,
+      "name": "@juanse",
+      "text": "El profe de la materia es medio pelo"
+    },
+    {
+      "id": 5,
+      "name": "@marian87",
+      "text": "Hay que participar en clase"
+    },
+    {
+      "name": "asdfas",
+      "text": "asdf",
+      "id": 6
+    },
+    {
+      "name": "asdfas",
+      "text": "asdf",
+      "id": 7
+    },
+    {
+      "name": "@soyYode nuevo",
+      "text": "hola que tal",
+      "id": 8
+    },
+    {
+      "name": "asdfasdf",
+      "text": "asdfasdfasdf",
+      "id": 9
+    }
+  ]
+}
