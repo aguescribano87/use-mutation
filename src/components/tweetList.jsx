@@ -2,7 +2,10 @@ import { useQuery } from "react-query"
 import { getTweets } from "../api/api"
 
 export const TweetList = () => {
-    const { data, isFetching, isLoading } = useQuery(['tweets'], getTweets)
+    const { data, isFetching, isLoading } = useQuery(['tweets'], getTweets,{
+        retry: 1,
+        retryDelay: 2000
+    })
 
     return (
         <div className="containerTweets">

@@ -12,38 +12,48 @@
     },
     {
       "id": 3,
-      "name": "@carlangas",
-      "text": "Anulo mufa, para el mundial"
-    },
-    {
-      "id": 4,
       "name": "@juanse",
-      "text": "El profe de la materia es medio pelo"
-    },
-    {
-      "id": 5,
-      "name": "@marian87",
-      "text": "Hay que participar en clase"
+      "text": "Medio pelo el profe de ESP 1"
     },
     {
       "name": "asdfas",
-      "text": "asdf",
+      "text": "asdfasdf",
+      "id": 4
+    },
+    {
+      "name": "jose",
+      "text": "hola que tal",
+      "id": 5
+    },
+    {
+      "name": "jose 2",
+      "text": "hola que tal",
       "id": 6
     },
     {
-      "name": "asdfas",
-      "text": "asdf",
+      "name": "pedro",
+      "text": "hola que tal",
       "id": 7
     },
     {
-      "name": "@soyYode nuevo",
-      "text": "hola que tal",
+      "name": "julieta",
+      "text": "fasdfasdfa",
       "id": 8
     },
     {
-      "name": "asdfasdf",
-      "text": "asdfasdfasdf",
+      "name": "julieta",
+      "text": "fasdfasdfa",
       "id": 9
+    },
+    {
+      "name": "julieta",
+      "text": "fasdfasdfa",
+      "id": 10
+    },
+    {
+      "name": "asdfasdf",
+      "text": "asdfasdf",
+      "id": 11
     }
   ]
 }
